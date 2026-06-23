@@ -6,7 +6,7 @@
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00E676&center=true&vCenter=true&width=720&lines=Polyglot+engineer+%E2%80%94+Go+%2F+Rust+%2F+TS+%2F+Swift+%2F+Java;Shipping+open-source+across+AI%2C+Web3%2C+systems+%26+tools;25%2B+public+repos+%C2%B7+from+CLI+to+SaaS+to+native+apps;Building+in+public+%E2%80%94+commit+daily%2C+ship+weekly" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00E676&center=true&vCenter=true&width=720&lines=Polyglot+engineer+%E2%80%94+Go+%2F+Rust+%2F+TS+%2F+Swift+%2F+Java;Shipping+open-source+across+AI%2C+Web3%2C+systems+%26+tools;Public+repos+%C2%B7+from+CLI+to+SaaS+to+native+apps;Building+in+public+%E2%80%94+commit+daily%2C+ship+weekly" alt="Typing SVG" />
   </a>
 </div>
 
@@ -24,7 +24,7 @@
   <a href="mailto:li563816210@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Leejaywell&style=for-the-badge&color=00E676&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=jay-jasper&style=for-the-badge&color=00E676&label=PROFILE+VIEWS"/>
 </div>
 
 <br/>
@@ -48,17 +48,17 @@ Most of my work is **scratching my own itch**, then open-sourcing it. If you fin
 ## 📊 Activity & Reach
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leejaywell&show_icons=true&theme=github_dark&hide_border=true&title_color=00E676&icon_color=00E676&count_private=true&include_all_commits=true" height="170" alt="stats"/>
-  <img src="https://streak-stats.demolab.com?user=Leejaywell&theme=github-dark-blue&hide_border=true&ring=00E676&fire=00E676&currStreakLabel=00E676" height="170" alt="streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jay-jasper&show_icons=true&theme=github_dark&hide_border=true&title_color=00E676&icon_color=00E676&count_private=true&include_all_commits=true" height="170" alt="stats"/>
+  <img src="https://streak-stats.demolab.com?user=jay-jasper&theme=github-dark-blue&hide_border=true&ring=00E676&fire=00E676&currStreakLabel=00E676" height="170" alt="streak stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leejaywell&langs_count=10&layout=compact&theme=github_dark&hide_border=true&title_color=00E676&hide=Jupyter%20Notebook" height="170" alt="top languages"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Leejaywell&theme=github_dark&utcOffset=8" height="170" alt="productive time"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay-jasper&langs_count=10&layout=compact&theme=github_dark&hide_border=true&title_color=00E676&hide=Jupyter%20Notebook" height="170" alt="top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jay-jasper&theme=github_dark&utcOffset=8" height="170" alt="productive time"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Leejaywell&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jay-jasper&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
 </div>
 
 ---
@@ -67,9 +67,9 @@ Most of my work is **scratching my own itch**, then open-sourcing it. If you fin
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leejaywell/Leejaywell/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leejaywell/Leejaywell/output/github-contribution-grid-snake.svg"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Leejaywell/Leejaywell/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jay-jasper/jay-jasper/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jay-jasper/jay-jasper/output/github-contribution-grid-snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/jay-jasper/jay-jasper/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </div>
 
@@ -77,53 +77,47 @@ Most of my work is **scratching my own itch**, then open-sourcing it. If you fin
 
 ## 🛠️ Open-Source Portfolio
 
-> 25+ public repos across AI, Web3, systems, native, and personal infra.
+> Public repos across AI, Web3, systems, native, and personal infra.
 > All descriptions below are pulled from the repos themselves.
 
 ### 🤖 AI & Productivity
 
 | Repo | What it does | Stack | Stars |
 |---|---|---|---|
-| [**Inflowee**](https://github.com/Leejaywell/Inflowee) | Personal monitoring SaaS — define a goal, plug in sources, get AI-generated daily briefs in your inbox. Local-first SQLite by default, Postgres in prod, with an MCP server for agent integration. | Next.js 16 · React 19 · Prisma · Inngest · MCP SDK | ![](https://img.shields.io/github/stars/Leejaywell/Inflowee?style=flat-square&label=&color=00E676) |
-| [**digi-life**](https://github.com/Leejaywell/digi-life) | "Digital life for everyone" — personal data service. | NestJS · TypeScript | ![](https://img.shields.io/github/stars/Leejaywell/digi-life?style=flat-square&label=&color=00E676) |
+| [**Inflowee**](https://github.com/jay-jasper/Inflowee) | Personal monitoring SaaS — define a goal, plug in sources, get AI-generated daily briefs in your inbox. Local-first SQLite by default, Postgres in prod, with an MCP server for agent integration. | Next.js 16 · React 19 · Prisma · Inngest · MCP SDK | ![](https://img.shields.io/github/stars/jay-jasper/Inflowee?style=flat-square&label=&color=00E676) |
 
 ### 🦀 Systems & Rust
 
 | Repo | What it does | Stack | Stars |
 |---|---|---|---|
-| [**welinker**](https://github.com/Leejaywell/welinker) | A personal-automation message bus. Normalizes inbound messages (WeChat, HTTP) into typed events, routes to local or remote agents (Claude, Codex, Gemini, DeepSeek, Qwen, Kimi), and records the full lifecycle. Local-first WebUI control panel. | Rust · Tokio · WebUI | ![](https://img.shields.io/github/stars/Leejaywell/welinker?style=flat-square&label=&color=00E676) |
-| [**live-bot**](https://github.com/Leejaywell/live-bot) · [**streamix**](https://github.com/Leejaywell/streamix) | Streamix — a desktop control system for Bilibili live streamers. Real-time chat monitoring, rule-based auto-reply, gift / interaction analytics, AI voice companion, and an OBS plugin view. Separate public-release repo for auto-update artifacts. | Rust · Tauri | ![](https://img.shields.io/github/stars/Leejaywell/live-bot?style=flat-square&label=&color=00E676) |
-| [**warp**](https://github.com/Leejaywell/warp) (OpenWarp) | Fully decentralized fork of Warp terminal. Strips the mandatory cloud, opens the AI layer to any OpenAI-compatible endpoint + 6 native protocols, wires in 3rd-party CLI agents (Codex / Claude Code / DeepSeek-TUI), adds a built-in SSH host manager, and fixes CJK / markdown rendering. | Rust · Tauri · minijinja | ![](https://img.shields.io/github/stars/Leejaywell/warp?style=flat-square&label=&color=00E676) |
-| [**blockchain-rs**](https://github.com/Leejaywell/blockchain-rs) | Bitcoin-style blockchain from scratch. Implements PoW, UTXO model, ECDSA tx signing, Merkle trees, a UTXO index over `sled`, and TCP-based P2P propagation. | Rust · sled · merkle-cbt | ![](https://img.shields.io/github/stars/Leejaywell/blockchain-rs?style=flat-square&label=&color=00E676) |
-| [**homebrew-tap**](https://github.com/Leejaywell/homebrew-tap) | Homebrew tap that distributes my Rust binaries — `brew install Leejaywell/tap/welinker`. | Ruby · Homebrew | ![](https://img.shields.io/github/stars/Leejaywell/homebrew-tap?style=flat-square&label=&color=00E676) |
+| [**welinker**](https://github.com/jay-jasper/welinker) | A personal-automation message bus. Normalizes inbound messages (WeChat, HTTP) into typed events, routes to local or remote agents (Claude, Codex, Gemini, DeepSeek, Qwen, Kimi), and records the full lifecycle. Local-first WebUI control panel. | Rust · Tokio · WebUI | ![](https://img.shields.io/github/stars/jay-jasper/welinker?style=flat-square&label=&color=00E676) |
+| [**live-bot**](https://github.com/jay-jasper/live-bot) · [**streamix**](https://github.com/jay-jasper/streamix) | Streamix — a desktop control system for Bilibili live streamers. Real-time chat monitoring, rule-based auto-reply, gift / interaction analytics, AI voice companion, and an OBS plugin view. Separate public-release repo for auto-update artifacts. | Rust · Tauri | ![](https://img.shields.io/github/stars/jay-jasper/live-bot?style=flat-square&label=&color=00E676) |
+| [**warp**](https://github.com/jay-jasper/warp) (OpenWarp) | Fully decentralized fork of Warp terminal. Strips the mandatory cloud, opens the AI layer to any OpenAI-compatible endpoint + 6 native protocols, wires in 3rd-party CLI agents (Codex / Claude Code / DeepSeek-TUI), adds a built-in SSH host manager, and fixes CJK / markdown rendering. | Rust · Tauri · minijinja | ![](https://img.shields.io/github/stars/jay-jasper/warp?style=flat-square&label=&color=00E676) |
+| [**blockchain-rs**](https://github.com/jay-jasper/blockchain-rs) | Bitcoin-style blockchain from scratch. Implements PoW, UTXO model, ECDSA tx signing, Merkle trees, a UTXO index over `sled`, and TCP-based P2P propagation. | Rust · sled · merkle-cbt | ![](https://img.shields.io/github/stars/jay-jasper/blockchain-rs?style=flat-square&label=&color=00E676) |
+| [**homebrew-tap**](https://github.com/jay-jasper/homebrew-tap) | Homebrew tap that distributes my Rust binaries — `brew install jay-jasper/tap/welinker`. | Ruby · Homebrew | ![](https://img.shields.io/github/stars/jay-jasper/homebrew-tap?style=flat-square&label=&color=00E676) |
 
 ### ⛓️ Web3 & Trading Infrastructure
 
 | Repo | What it does | Stack | Stars |
 |---|---|---|---|
-| [**coin-market**](https://github.com/Leejaywell/coin-market) | Full crypto-exchange microservices monorepo. Independent Go services for `exchange`, `market`, `user`, and `jobcenter` (each with its own API gateway), shared gRPC contracts, Docker + Kubernetes manifests, and a Vue trading UI. | Go (go-zero) · gRPC · Docker · K8s · Vue | ![](https://img.shields.io/github/stars/Leejaywell/coin-market?style=flat-square&label=&color=00E676) |
-| [**DGC-backend**](https://github.com/Leejaywell/DGC-backend) | Digital-asset trading platform backend, with documented system and business architecture diagrams. | Java · Spring Boot | ![](https://img.shields.io/github/stars/Leejaywell/DGC-backend?style=flat-square&label=&color=00E676) |
-| [**DGC-admin**](https://github.com/Leejaywell/DGC-admin) · [**DGC_frontend**](https://github.com/Leejaywell/DGC_frontend) | Admin console (Ant Design Pro) and end-user client for the DGC exchange. | TypeScript · Vue | ![](https://img.shields.io/github/stars/Leejaywell/DGC-admin?style=flat-square&label=&color=00E676) |
-| [**contract-solidity**](https://github.com/Leejaywell/contract-solidity) | Smart-contract workspace on Hardhat 3 beta with `node:test` and `viem`. Includes Foundry-compatible Solidity tests and Ignition deploy modules (local + Sepolia). | Solidity · Hardhat 3 · viem | ![](https://img.shields.io/github/stars/Leejaywell/contract-solidity?style=flat-square&label=&color=00E676) |
+| [**coin-market**](https://github.com/jay-jasper/coin-market) | Full crypto-exchange microservices monorepo. Independent Go services for `exchange`, `market`, `user`, and `jobcenter` (each with its own API gateway), shared gRPC contracts, Docker + Kubernetes manifests, and a Vue trading UI. | Go (go-zero) · gRPC · Docker · K8s · Vue | ![](https://img.shields.io/github/stars/jay-jasper/coin-market?style=flat-square&label=&color=00E676) |
+| [**contract-solidity**](https://github.com/jay-jasper/contract-solidity) | Smart-contract workspace on Hardhat 3 beta with `node:test` and `viem`. Includes Foundry-compatible Solidity tests and Ignition deploy modules (local + Sepolia). | Solidity · Hardhat 3 · viem | ![](https://img.shields.io/github/stars/jay-jasper/contract-solidity?style=flat-square&label=&color=00E676) |
 
 ### 📱 Native & Apps
 
 | Repo | What it does | Stack | Stars |
 |---|---|---|---|
-| [**Atlas**](https://github.com/Leejaywell/Atlas) | Rust-core, Swift-bridge native app. Cargo workspace with `atlas-core`, `atlas-ffi`, and a `uniffi-swift-bindgen` tool, targeting macOS first. | Rust · Swift · UniFFI | ![](https://img.shields.io/github/stars/Leejaywell/Atlas?style=flat-square&label=&color=00E676) |
-| [**ui-builder-backend**](https://github.com/Leejaywell/ui-builder-backend) · [**ui-builder-frontend**](https://github.com/Leejaywell/ui-builder-frontend) | Drag-and-drop website builder with a pluggable theme / widget system (themes ship as folders with their own `theme.config`, scripts, and styles). Originally built for hotel sites; engine + builder UI are independent. | Java · React · Ant Design Pro | ![](https://img.shields.io/github/stars/Leejaywell/ui-builder-backend?style=flat-square&label=&color=00E676) |
+| [**Atlas**](https://github.com/jay-jasper/Atlas) | Rust-core, Swift-bridge native app. Cargo workspace with `atlas-core`, `atlas-ffi`, and a `uniffi-swift-bindgen` tool, targeting macOS first. | Rust · Swift · UniFFI | ![](https://img.shields.io/github/stars/jay-jasper/Atlas?style=flat-square&label=&color=00E676) |
 
 ### 📚 Learn-by-Building
 
 | Repo | What it does | Stack |
 |---|---|---|
-| [**go-redis**](https://github.com/Leejaywell/go-redis) | A Redis server reimplemented in Go to study the protocol and data structures. | Go |
-| [**rust-practice**](https://github.com/Leejaywell/rust-practice) | Rust learning notes & katas — types, ownership, lifetimes, async. | Rust |
-| [**common-module**](https://github.com/Leejaywell/common-module) | Spring Boot starter exploring auto-configuration internals and a JSON-RPC integration. | Java · Spring Boot |
+| [**rust-practice**](https://github.com/jay-jasper/rust-practice) | Rust learning notes & katas — types, ownership, lifetimes, async. | Rust |
 
 <div align="center">
-  <a href="https://github.com/Leejaywell?tab=repositories">
-    <img src="https://img.shields.io/badge/See%20all%2025%2B%20repos-→-00E676?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/jay-jasper?tab=repositories">
+    <img src="https://img.shields.io/badge/See%20all%20repos-→-00E676?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
@@ -209,12 +203,11 @@ I deliberately keep a polyglot stack — the right tool for the right job.
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leejaywell&bg_color=0d1117&color=00e676&line=00e676&point=ffffff&area=true&hide_border=true&area_color=00e67620" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jay-jasper&bg_color=0d1117&color=00e676&line=00e676&point=ffffff&area=true&hide_border=true&area_color=00e67620" alt="activity graph"/>
 </div>
 
 ---
 
-<<<<<<< HEAD
 ## 💼 Career Timeline
 
 ```
@@ -248,7 +241,7 @@ Others       ██░░░░░░░░░░░░░░░░░░   ~7% 
   <summary>📈 Detailed Activity Graph (click to expand)</summary>
   <br/>
 
-[![JayLee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Leejaywell&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![JayLee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jay-jasper&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </details>
 
@@ -258,56 +251,6 @@ Others       ██░░░░░░░░░░░░░░░░░░   ~7% 
 
 ---
 
-||||||| parent of c7ebd6d (Restructure profile around open-source portfolio)
-## 💼 Career Timeline
-
-```
-2026 ──── 🤖 AI Projects: hot-track · github-i18n  (Cursor / Claude Code / Codex)
-           ↑ Full-stack AI coding — React 19, Next.js 15, OpenRouter, Socket.io
-
-2025 ──── 💱 MEXC — Golang Engineer
-           ↑ Trading platform: assets · wallets · matching engine · market data (BTC/ETH/USDT)
-
-2020 ──── 🛒 Shanghai Leyan — Java Sr. Engineer
-           ↑ Merchant conversion tool: order nudge · SMS channels · active task dispatch
-
-2019 ──── 🏨 DerbySoft — Booking.com × IHG Connector
-           ↑ ARI sync · rate plan mapping · order pipeline · Genius Rate / OTA go-live
-
-2016 ──── 🌐 DerbySoft — Go Platform (Hotel Distribution Middleware)
-           ↑ Kafka + Groovy protocol adapter · Spring Boot starter · CRS ↔ OTA bridge
-```
-
----
-
-## 📊 Language Distribution (Estimated)
-
-```
-Go           ████████████░░░░░░░░  ~45%   microservices, trading systems
-Java         ██████░░░░░░░░░░░░░░  ~22%   Spring Boot, hotel connectors
-TypeScript   █████░░░░░░░░░░░░░░░  ~18%   Next.js, React, AI tools
-Rust         ██░░░░░░░░░░░░░░░░░░   ~8%   blockchain experiments
-Others       ██░░░░░░░░░░░░░░░░░░   ~7%   Groovy, SQL, shell
-```
-
----
-
-<details>
-  <summary>📈 Detailed Activity Graph (click to expand)</summary>
-  <br/>
-
-[![JayLee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Leejaywell&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</details>
-
-<details>
-  <summary>🔧 Snake Animation Setup (GitHub Action)</summary>
-</details>
-
----
-
-=======
->>>>>>> c7ebd6d (Restructure profile around open-source portfolio)
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00897B,100:00E676&height=100&section=footer" />
   <br/>
